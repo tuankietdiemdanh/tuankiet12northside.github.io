@@ -1,4 +1,4 @@
-Welcome
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@ Welcome
     <title>nongtuankiet</title>
 </head>
 <body>
-<h1>NongKiet
+<h1>Nongtuankietdiemdanh
     <h2>so thich</h2>
        <p>Chiều nay, bước ra pháp trường còng tay
         Mẹ ơi người ta sắp bắn con rồi
